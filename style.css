@@ -215,7 +215,7 @@ header{
     height: 3rem;
     width: 100%;
     padding-left: 1rem;
-
+    background-color: rgb(184, 181, 181);
 } 
 .row1_col1{
     width: 100%;
