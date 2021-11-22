@@ -90,7 +90,7 @@ header{
 .sps{
     width: 100%;
     border: 1px solid rgb(170, 164, 164);
-    height: fit-content;
+    height: 33rem;
     padding: 2rem 3rem;
 }
 .sps > h2{
@@ -134,7 +134,7 @@ header{
 .crossroads{
     width: 82%;
     border: 1px solid rgb(170, 164, 164);
-    height: max-content;
+    height: 33rem;
     padding: 2rem 3rem;
 }
 .crossroads > h2{
